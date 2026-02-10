@@ -1,3 +1,9 @@
-This is a test file added to the temp-branch for demonstration purposes.
+This repository was used for a demonstration of Git and GitHub workflows:
 
-Additional content for the PR demo.
+1. Cloned the empty PracticeProjects repository.
+2. Created a temporary branch called 'temp-branch'.
+3. Added this test file to the temp-branch.
+4. Committed and pushed the changes.
+5. Created a pull request to merge temp-branch into master.
+6. Merged the pull request.
+7. Attempted to delete the temp-branch (currently the default branch, so deletion failed).
